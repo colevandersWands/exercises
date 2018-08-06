@@ -2,9 +2,9 @@
 
 ## 1:
 
-__An-Errors__  
+__Error-Log__  
 
-__Snippet-Studies__
+__JS-Reference__
 
 ___
 
