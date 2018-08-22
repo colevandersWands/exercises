@@ -57,6 +57,17 @@ Boolean(   0.5   ).toString();
 (           "true"          );
 ```
 
+option 6:
+```js
+Boolean( 5 - 4.5 ).toString();
+//---------------------------
+Boolean(   0.5   ).toString();    
+//---------------------------
+(      true      ).toString();
+//---------------------------
+(           "true"          );
+```
+
 
 
 
